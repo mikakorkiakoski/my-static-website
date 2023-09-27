@@ -7,11 +7,11 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Contact](#contact)
-  - [Image](#image)
   - [Blockquote](#blockquote)
-  - [Git commands](#git-commands)
   - [Footnote](#footnote)
-  - [Task lists](#task-lists)
+  - [Git commands](#git-commands)
+  - [Task list](#task-list)
+  - [Image](#image)
 
 ## About
 **I am doing this because this is part of the cloud services course. This should be bold text!**
@@ -20,26 +20,11 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
 ## Contact
 ***This text should be all bold and italic! You can contact me at [t1komi05@students.oamk.fi](mailto:t1komi05@students.oamk.fi). The link should open your mail.***
 
-## Image
-
-![This is alt text for Octocat smiling and raising a tentacle](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
 ## Blockquote
 > This is a blockquote. A blockquote is a sentence or paragraph that's been specially formatted to draw attention to the reader.
 >>Pretty cool right!
 >>> Amazing!.
 >>>> Insane!
-
-
-## Git commands
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
 
 ## Footnote
 
@@ -52,9 +37,22 @@ Here is the second footnote[^2].
 
 [^2]: Reference for second footnote.
 
-## Task lists
+## Git commands
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+## Task list
+
+- [x] #1
+- [x] #2
+- [ ] #3
+
+## Image
+
+![This is alt text for Octocat smiling and raising a tentacle](https://myoctocat.com/assets/images/base-octocat.svg)
 
