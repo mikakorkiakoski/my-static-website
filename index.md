@@ -1,6 +1,6 @@
 
 # My Static Website
-Welcome to my simple static website using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and [GitHub Pages](https://pages.github.com/)! * *Made and designed by Mika Korkiakoski* *
+Welcome to my simple static website using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and [GitHub Pages](https://pages.github.com/)!  *Made and designed by Mika Korkiakoski* 
 
 ## Table of Contents
 - [My Static Website](#my-static-website)
@@ -24,7 +24,7 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
 
 
 ## Blockquote
-> This is a blockquote.
+> This is a blockquote. A blockquote is a sentence or paragraph that's been specially formatted to draw attention to the reader.
 
 ## Git commands
 
