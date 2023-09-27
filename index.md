@@ -48,9 +48,9 @@ git commit
 
 ## Task list
 
-- [x] #1
-- [x] #2
-- [ ] #3
+- [x] Created index.md
+- [x] It turned out great!
+- [ ] Cloud service course completed.
 
 ## Image
 
