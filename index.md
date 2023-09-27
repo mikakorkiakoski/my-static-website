@@ -10,7 +10,7 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
   - [Image](#image)
   - [Blockquote](#blockquote)
   - [Git commands](#git-commands)
-  - [Footnotes](#footnotes)
+  - [Footnote](#footnote)
 
 ## About
 **I am doing this because this is part of the cloud services course. This should be bold text!**
@@ -40,15 +40,14 @@ git add
 git commit
 ```
 
-## Footnotes
+## Footnote
 
 Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].
+Here is the second footnote[^2].
+
 
 [^1]: Reference for simple footnote.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
 
-  This is a second line in the same footnote.
+[^2]: Reference for second footnote.
 
-  And here is a third line.
