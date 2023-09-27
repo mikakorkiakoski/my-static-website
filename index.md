@@ -11,6 +11,7 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
   - [Blockquote](#blockquote)
   - [Git commands](#git-commands)
   - [Footnote](#footnote)
+  - [Task lists](#task-lists)
 
 ## About
 **I am doing this because this is part of the cloud services course. This should be bold text!**
@@ -50,4 +51,10 @@ Here is the second footnote[^2].
 [^1]: Reference for simple footnote.
 
 [^2]: Reference for second footnote.
+
+## Task lists
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
