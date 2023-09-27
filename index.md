@@ -1,6 +1,6 @@
 
 # My Static Website
-Welcome to my simple static website using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and [GitHub Pages](https://pages.github.com/)!
+Welcome to my simple static website using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and [GitHub Pages](https://pages.github.com/)! * *Made and designed by Mika Korkiakoski* *
 
 ## Table of Contents
 - [My Static Website](#my-static-website)
@@ -8,6 +8,8 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
   - [About](#about)
   - [Contact](#contact)
   - [Image](#image)
+  - [Blockquote](#blockquote)
+  - [Git commands](#git-commands)
 
 ## About
 **I am doing this because this is part of the cloud services course. This should be bold text!**
@@ -19,3 +21,16 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
 ## Image
 
 ![This is alt text for Octocat smiling and raising a tentacle](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+## Blockquote
+> This is a blockquote.
+
+## Git commands
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
