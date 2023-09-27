@@ -49,4 +49,5 @@ A footnote can also have multiple lines[^2].
 [^1]: My reference.
 
 [^2]: To add line breaks within a footnote, prefix new line with 2 spaces.
+
   This is a second line.
