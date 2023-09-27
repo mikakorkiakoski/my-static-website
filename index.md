@@ -27,8 +27,8 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
 ## Blockquote
 > This is a blockquote. A blockquote is a sentence or paragraph that's been specially formatted to draw attention to the reader.
 >>Pretty cool right!
->
-> Amazing!.
+>>> Amazing!.
+>>>> Insane!
 
 
 ## Git commands
