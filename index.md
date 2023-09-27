@@ -10,6 +10,7 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
   - [Image](#image)
   - [Blockquote](#blockquote)
   - [Git commands](#git-commands)
+  - [Footnotes](#footnotes)
 
 ## About
 **I am doing this because this is part of the cloud services course. This should be bold text!**
@@ -25,6 +26,10 @@ Welcome to my simple static website using [Markdown](https://docs.github.com/en/
 
 ## Blockquote
 > This is a blockquote. A blockquote is a sentence or paragraph that's been specially formatted to draw attention to the reader.
+>>Pretty cool right!
+>
+> Amazing!.
+
 
 ## Git commands
 
@@ -34,3 +39,14 @@ git status
 git add
 git commit
 ```
+
+## Footnotes
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+
+[^2]: To add line breaks within a footnote, prefix new line with 2 spaces.
+  This is a second line.
